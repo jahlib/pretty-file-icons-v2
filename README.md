@@ -10,32 +10,6 @@ pretty-file-icons-v2 added 3 new icons (maybe more later...)
 Inspired and referenced to original design.
 .torrent, .apk, .xpi
 
-See [index.json](index.json) for available icons list. Live preview is
-available [here](https://kravets-levko.github.io/pretty-file-icons/preview.html).
- 
-## Usage
- 
-Just download image files and use them. Also, this package is available on NPM:
-```
-npm install pretty-file-icons
-```
- 
-In addition, this package contains mapping for some file extensions - see the
-[index.json](index.json) file. Also, it can be used in javascript applications 
-to retrieve icon names by file name:
-```javascript
-var prettyFileIcons = require('pretty-file-icons');
-
-console.log(prettyFileIcons.getIcon('test.csv'));
-console.log(prettyFileIcons.getIcon('test.csv', 'svg'));
-console.log(prettyFileIcons.getIcon('.test', 'svg'));
-
-// Prints:
-// csv
-// csv.svg
-// unknown.svg
-```
-  
 ## Preview:
   
 ![Preview](preview.png)  
