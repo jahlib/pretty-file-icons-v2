@@ -29,7 +29,7 @@
             <path d="M17.082,44.168L17.082,47.34L21.293,47.34L21.293,48.461L17.082,48.461L17.082,51.756L21.717,51.756L21.717,53L15.414,53L15.414,42.924L21.717,42.924L21.717,44.168L17.082,44.168Z" style="fill:white;fill-rule:nonzero;"/>
         </g>
         <g transform="matrix(1,0,0,1,-1.03784,0)">
-            <g opacity="0.25">
+            <g opacity="0.5">
                 <g transform="matrix(1.01004,-0,-0,0.990058,1.03784,-0)">
                     <use xlink:href="#_Image1" x="16.398" y="11.894" width="22.237px" height="22.237px" transform="matrix(0.96682,0,0,0.96682,0,0)"/>
                 </g>
@@ -37,6 +37,6 @@
         </g>
     </g>
     <defs>
-        <image id="_Image1" width="23px" height="23px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABK0lEQVRIibWVwXLCMAxEn5P0RAc4pzj//0H9glI4MlN6bGh6sIUVNWTsAHtybGUlr9ey4zZaoJ5ZF1yAY0bcFTugy4z1Mf4fnPlugQb4BT4Li6mAHrULve0WeIkBhwJigDOwioWtgG9iNkED/FCon8IxFtbIhMgimmkp3kzyfWaSK5cj6fyhArwi1ElyndEBfQ1sTVUd4UCJaxB2dI7fr0RNZ/AFbBszuYvVVcCgxl7FWIfdhCV3E2OrtScT+sA8QQ5HkmXK67kHOyKH5O+qhCSHPFvLJeTDM8kheB6C5pPNaCn5hbF7HOECLYa9oeKYmuTxJdgAp6ne0hEakHTMUteMeotASCH19IGy6tcENd4xP/aEfg6piZUSV8BJJp76Es0FP/wN1bj79f8D/sc/Ka3JBTcAAAAASUVORK5CYII="/>
+        <image id="_Image1" width="23px" height="23px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABY0lEQVRIibWVTW7CQAyFvwmBtCegqwoOgfhLr9uTtFCVI7CjVa/Q8qd0YY8wboCJor7NzDiO7by8sQOXMQJ65lwBwawRO2B1Jc4fTIEy0XcOTOoeBHceAXfAHnhrUMwE6AI/mK/ouMD36vDeIDDAJ9DXwvrAF0BmHArgm4b8Gay0sCIaIi1T5EdZKsZAbs6viUkmGncZEDoK4MU4zHRduCSpyiiBbQcYuqpK4KDZBybJh54fUE6vYAMMc2ecIkrJgaPZz42PV9hF+OAZwn1l9p7rOYmIAUB43iPyPKptWfNO6o+tMk6fGRB9V5pgkVrhBYScU+XBrW1xVnnl1rYImTOMNNkBUU4r2OA75DJV5tm4TXB/Q2eIUrqazEs1FQNgXddbnpAG1FNbU9Wc9ZaIEtjqvkB4j7KME+gWHhE6n+Gc8y3Sz0EoCpz6fZPA62iom0Sx6qaTKNcCb3bNf5mhFq2n/y+qdVMt1KkBIwAAAABJRU5ErkJggg=="/>
     </defs>
 </svg>
